@@ -1,5 +1,5 @@
-# PatchEnsemble Binary Classifier of Histopathology Images
-PatchEnsemble training and prediction framework binary classification of degraded histopathology images
+# PatchEnsemble Binary Classifier
+PatchEnsemble training and prediction framework for binary classification of degraded histopathology images from publicly available datasets
 
 ## Functions
 * `PatchEnsemble.py`: instantiates the `PatchEnsemble` class. Edit this to change the network architecture.
