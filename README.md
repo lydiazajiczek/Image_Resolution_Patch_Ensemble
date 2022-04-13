@@ -79,3 +79,7 @@ Two example files `sample_train.py` and `sample_test.py` are also provided to il
 
 ## Installation
 Tested on Ubuntu 18.04.6 LTS with Python 3.6.9 using TensorFlow/Keras 2.3.0
+
+To cite this dataset, please use the following:
+
+[![DOI](https://zenodo.org/badge/481254878.svg)](https://zenodo.org/badge/latestdoi/481254878)
